@@ -1,0 +1,14 @@
+com\mycompany\vsp2\model\User.class
+com\mycompany\vsp2\dao\ClassDAO$ClassSummary.class
+com\mycompany\vsp2\dao\UserDAO.class
+com\mycompany\vsp2\AdminDashboard$1.class
+com\mycompany\vsp2\ui\LoginPage.class
+com\mycompany\vsp2\dao\MaterialDAO.class
+com\mycompany\vsp2\ui\RegisterPage.class
+com\mycompany\vsp2\VSP2.class
+com\mycompany\vsp2\dao\ClassDAO.class
+com\mycompany\vsp2\dao\DatabaseConnection.class
+com\mycompany\vsp2\StudentDashboard.class
+com\mycompany\vsp2\TeacherDashboard.class
+com\mycompany\vsp2\AdminDashboard.class
+com\mycompany\vsp2\dao\MarksDAO.class
